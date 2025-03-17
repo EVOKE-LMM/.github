@@ -3,7 +3,7 @@
 
 ## **When Large Multimodal Models Confront Evolving Knowledge: Challenges and Pathways**
 
-**Kailin Jiang\***, Yuntao Du\*, Yukai Ding, Yuchen Ren, Ning Jiang, Zhi Gao, Zilong Zheng, Lei Liu, Bin Li, Qing Li. 【2024.10】 <br>
+**Kailin Jiang**, Yuntao Du, Yukai Ding, Yuchen Ren, Ning Jiang, Zhi Gao, Zilong Zheng, Lei Liu, Bin Li, Qing Li. 【2024.10】 <br>
 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2502.19870-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2502.19870) [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-EVOKE-blue)](https://huggingface.co/datasets/kailinjiang/EVOKE) [![Models](https://img.shields.io/badge/%F0%9F%A4%97%20Models-EVOKE-blue)](https://huggingface.co/kailinjiang/EVOKE-Models) [![paperwithcode](https://img.shields.io/badge/PWC-EVOKE-blue?logo=paperswithcode)](https://paperswithcode.com/paper/mmke-bench-a-multimodal-editing-benchmark-for)  [![code](https://img.shields.io/badge/Code-EVOKE-blue?logo=github)](https://github.com/EVOKE-LMM/EVOKE) [![website](https://img.shields.io/badge/Website-EVOKE-orange?logo=homepage)](https://mmke-bench-iclr.github.io/) [![airchina](https://img.shields.io/badge/数源AI-EVOKE-red?logo=airchina)](https://mp.weixin.qq.com/s/iN826lITi5Xyz-3GnrdVIQ)
