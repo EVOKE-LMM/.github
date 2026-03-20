@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## **When Large Multimodal Models Confront Evolving Knowledge: Challenges and Pathways**
+## **When Large Multimodal Models Confront Evolving Knowledge: Challenges and Explorations**
 
 **Kailin Jiang**, Yuntao Du, Yukai Ding, Yuchen Ren, Ning Jiang, Zhi Gao, Zilong Zheng, Lei Liu, Bin Li, Qing Li. 【2025.3】 <br>
 
